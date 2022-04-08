@@ -1,0 +1,10 @@
+C:\Users\anaat\OneDrive - Universidad de Guadalajara\Documents\6to\SemUso\ProductorConsumidor\ProductorConsumidor\ProductorConsumidor\bin\Debug\ProductorConsumidor.exe.config
+C:\Users\anaat\OneDrive - Universidad de Guadalajara\Documents\6to\SemUso\ProductorConsumidor\ProductorConsumidor\ProductorConsumidor\bin\Debug\ProductorConsumidor.exe
+C:\Users\anaat\OneDrive - Universidad de Guadalajara\Documents\6to\SemUso\ProductorConsumidor\ProductorConsumidor\ProductorConsumidor\bin\Debug\ProductorConsumidor.pdb
+C:\Users\anaat\OneDrive - Universidad de Guadalajara\Documents\6to\SemUso\ProductorConsumidor\ProductorConsumidor\ProductorConsumidor\obj\Debug\ProductorConsumidor.csproj.AssemblyReference.cache
+C:\Users\anaat\OneDrive - Universidad de Guadalajara\Documents\6to\SemUso\ProductorConsumidor\ProductorConsumidor\ProductorConsumidor\obj\Debug\ProductorConsumidor.Form1.resources
+C:\Users\anaat\OneDrive - Universidad de Guadalajara\Documents\6to\SemUso\ProductorConsumidor\ProductorConsumidor\ProductorConsumidor\obj\Debug\ProductorConsumidor.Properties.Resources.resources
+C:\Users\anaat\OneDrive - Universidad de Guadalajara\Documents\6to\SemUso\ProductorConsumidor\ProductorConsumidor\ProductorConsumidor\obj\Debug\ProductorConsumidor.csproj.GenerateResource.cache
+C:\Users\anaat\OneDrive - Universidad de Guadalajara\Documents\6to\SemUso\ProductorConsumidor\ProductorConsumidor\ProductorConsumidor\obj\Debug\ProductorConsumidor.csproj.CoreCompileInputs.cache
+C:\Users\anaat\OneDrive - Universidad de Guadalajara\Documents\6to\SemUso\ProductorConsumidor\ProductorConsumidor\ProductorConsumidor\obj\Debug\ProductorConsumidor.exe
+C:\Users\anaat\OneDrive - Universidad de Guadalajara\Documents\6to\SemUso\ProductorConsumidor\ProductorConsumidor\ProductorConsumidor\obj\Debug\ProductorConsumidor.pdb
